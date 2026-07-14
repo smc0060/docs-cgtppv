@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-zlx572.salamkita.cfd/sitemap.xml
